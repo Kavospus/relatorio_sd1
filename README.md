@@ -1,4 +1,4 @@
-relatorio_sd1
+Relatório SD1
 =============
 
 Repositório para criação dos relatórios de SD1
